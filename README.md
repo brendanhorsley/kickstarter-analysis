@@ -10,8 +10,9 @@ The purpose of this study is to investigate the outcomes of theater campaigns la
 Specifically this analysis will focus on success of campaigns based on their fundraising goals and their launch dates.
 
 ## Analysis and Challenges
-The data on kickstarter campaigns is quite large and includes many campaigns that Louise has no interest in.
+One challenge was that data on kickstarter campaigns is quite large, hard to read, and includes many campaigns that Louise has no interest in.
 The analysis was able to filter the data to only theater campaigns which is more relevant to the information Louise is looking for.
+Then the data was organized and visualized to be more digestible and easy to read
 
 ### Analysis of Outcomes Based on Launch Date
 
